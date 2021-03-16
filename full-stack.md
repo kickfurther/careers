@@ -27,14 +27,15 @@ someone who shares our values and is excited to solve the challenges ahead.
 
 Requirements
 ------------
+
  * Strong professional Laravel experience, preferably using the TALL stack
  * A preference for TDD, or some other rigorous testing methodology
  * Fluent in Git and use of Gitflow or a similar such workflow
  * Use of continuous integration/deployment and automated testing pipelines
- * Working knowledge of developing for AWS
+ * Working knowledge of developing applications that will be deployed to AWS
  * Able to communicate with team members and stakeholders
  * Passion for building quality applications
- * +/- 3 hours from EST timezone
+ * +/- 3 hours from EST timezone (i.e., North, Central, or South America)
 
 
 Bonus points
@@ -43,6 +44,6 @@ Bonus points
  * Experience with Livewire, VueJS, Tailwind, Laravel Valet, Statamic
  * Startup experience
  * DevOps experience, or...
- * A good eye for UI design
+ * ...a good eye for UI design
 
 Please send your resume and portfolio to developers@kickfurther.com.

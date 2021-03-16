@@ -36,7 +36,7 @@ Requirements
  * Fluent in Git and use of Gitflow or a similar such workflow
  * Use of continuous integration/deployment and automated testing pipelines
  * Able to communicate with team members and stakeholders
- * +/- 3 hours from EST timezone
+ * +/- 3 hours from EST timezone (i.e., North, Central, or South America)
 
 
 Bonus points
