@@ -12,7 +12,7 @@ simultaneously process many transactions in a seamless way.
 
 Kickfurther itself just closed our largest investment round; there is a
 lot to accomplish and we have the means to accomplish it. Do you want to
-join oud funded, growing team to help build our differentiated approach
+join our funded, growing team to help build our differentiated approach
 focused on crowd-funding physical inventory?
 
 We are looking for a few full-stack engineers for our dev team. The
@@ -24,30 +24,30 @@ an essential part of building our platform.
 What we value
 -------------
 
-We are all skilled and capable people. Along with honesty and a strong
-work ethic, we value the ability to learn and grow, both as individuals
-and as members of a team. We embrace modern technology, but we also
-recognize the value of the tried and true so that we can create a
-robust, stable fintech plaform. We stick to lightweight processes
-and tools. but value the people and the team. We try to create an
+Along with honesty and a strong work ethic, we value the ability to
+learn and grow, both as individuals and as members of a team. We
+embrace modern technology, but we also recognize the value of the
+tried and true so that we can create a robust, stable fintech
+plaform. We stick to lightweight processes and tools, but we place a
+higher value on the people and the team. We try to create an
 environment where people are happy, because happy people make better
 decisions, write better code, and make great products. We prefer
-simple solutions to complex problems, and complicate things only when
-absolutely necessary.
+simple solutions to complex problems, and complicate things only
+when absolutely necessary.
 
 
 Job description
 ---------------
 
-We are seeking Laravel web application developers to work on our product.
-The responsibilities may include:
+We are looking for Laravel web application developers to work on our
+product.  The responsibilities may include such things as:
 
  * Doing data model design, implementation, and optimization
  * Building out the core business logic
  * Creating new APIs to this logic
- * Creating and improving our user-facing user interface
+ * Creating and improving our user-facing UI
  * Creating and improving our internal business dashboards
- * Integrating to 3rd part data source, then intelligently using that data
+ * Integrating to 3rd party data sources, then intelligently using that data
 
 The ideal candidate will be a full-stack web application developer, but
 we understand that you might have a particular talent for back or front
@@ -59,7 +59,7 @@ Requirements
 
  * Strong professional Laravel experience, preferably using the TALL stack
  * An eye for detail and a commitment to quality work
- * A preference for TDD, or some other rigorous testing methodology
+ * A preference for TDD or some other rigorous testing methodology
  * Fluent in Git and use of Gitflow or a similar such workflow
  * Use of continuous integration/deployment and automated testing pipelines
  * Working knowledge of developing applications that will be deployed to AWS
@@ -96,7 +96,8 @@ Benefits
 --------
 
  * Competitive salary, based on location
- * Health, dental & vision insurance for US-based employees; cash compensation for non-US
- * Paid holidays and vacation
+ * Health, dental & vision insurance for US-based employees;
+   some cash compensation for non-US
+ * Paid holidays and vacations
  * Work from (almost) anywhere
  * Flexible work hours, excellent work/life balance
