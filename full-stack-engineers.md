@@ -47,10 +47,11 @@ The responsibilities may include:
  * Creating new APIs to this logic
  * Creating and improving our user-facing user interface
  * Creating and improving our internal business dashboards
+ * Integrating to 3rd part data source, then intelligently using that data
 
-The ideal candidate will be a full-stack web application developer,
-but we understand that you might have a preference or a particular
-talent for back or front end work.
+The ideal candidate will be a full-stack web application developer, but
+we understand that you might have a particular talent for back or front
+end work.
 
 
 Requirements
@@ -91,8 +92,8 @@ every single requirements listed in this posting. To apply, please
 send your resume and portfolio to developers@kickfurther.com.
 
 
-Our benefits
-------------
+Benefits
+--------
 
  * Competitive salary, based on location
  * Health, dental & vision insurance for US-based employees; cash compensation for non-US
